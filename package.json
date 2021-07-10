@@ -1,0 +1,12 @@
+{
+  "name": "webserver-browser-extension",
+  "private": "true",
+  "scripts": {
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "@types/chrome": "^0.0.146",
+    "@types/node": "^16.3.1",
+    "vite": "^2.4.1"
+  }
+}
